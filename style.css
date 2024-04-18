@@ -51,14 +51,22 @@ a {
 }
 
 .button-1 {
-  font-family: Roboto, sans-serif;
-  border: none;
   border-radius: 8px;
   background: #3882f6;
-  padding: 8px 16px;
+  padding: 8px;
+  width: 70px;
+  height: auto;
+  display: flex;
+  justify-content: xe;
+  align-items: center;
 }
 
 .register {
   color: #e5e7eb;
   background-color: #3882f6;
+  border-radius: 8px;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
