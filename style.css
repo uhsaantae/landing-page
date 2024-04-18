@@ -29,44 +29,12 @@ a {
 
 .container-1 {
   background-color: #1f2937;
-  padding: 80px;
+  padding: 100px;
+  align-items: center;
   justify-content: center;
 }
-.hero-text {
-  color: #f9faf8;
-  font-size: 48px;
-  font-weight: bold;
-}
-.herosub {
-  font-size: 18px;
-  color: #e5e7eb;
-}
 
-.image1 {
-  background-color: gray;
-}
-
-.image-text {
-  color: #e5e7eb;
-}
-
-.button-1 {
-  border-radius: 8px;
-  background: #3882f6;
-  padding: 8px;
-  width: 70px;
-  height: auto;
-  display: flex;
-  justify-content: xe;
-  align-items: center;
-}
-
-.register {
-  color: #e5e7eb;
-  background-color: #3882f6;
-  border-radius: 8px;
-  border: none;
-  justify-content: center;
-  align-items: center;
-  display: flex;
+.container-1 button {
+  justify-content: end;
+  align-items: end;
 }
